@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marvel Heroes</string>
+    <string name="description"><u>Description</u></string>
+    <string name="comics"><u>Comics</u></string>
+    <string name="Series"><u>Series</u></string>
+    <string name="events"><u>Events</u></string>
+    <string name="furthur_link"><u>Furthur Links</u></string>
+</resources>
